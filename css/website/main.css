@@ -1,0 +1,17 @@
+body {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.links {
+    color: dodgerblue !important;
+}
+
+.links:hover {
+    color: deepskyblue !important;
+}
