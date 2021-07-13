@@ -13,6 +13,5 @@ This is the official website of the HytoraCloud project.
  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
  * [Popper](https://github.com/popperjs/popper-core)
  * [jQuery](https://github.com/jquery/jquery)
- * [particles.js](https://github.com/VincentGarreau/particles.js/)
 ## 📋 Pull Requests
 PR's are always welcome. Please note that we have to review them, which may take a while. If you have any questions, you can contact [@wtfcxt](https://github.com/wtfcxt) via. the discord server.
